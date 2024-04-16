@@ -1,0 +1,71 @@
+﻿<Properties StartupConfiguration="{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|challenge">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CodeChallenge PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ckellicutt/Documents/dotnet-code-challenge/CodeChallenge/Services/EmployeeService.cs" relfile="CodeChallenge/Services/EmployeeService.cs" line="37" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodeChallenge.Tests/CompensationRepositoryTests.cs">
+    <Files>
+      <File FileName="CodeChallenge/Program.cs" />
+      <File FileName="CodeChallenge/Config/App.cs" />
+      <File FileName="CodeChallenge.Tests/Helpers/TestServer.cs" />
+      <File FileName="CodeChallenge.Tests/resources/EmployeeSeedData.json" />
+      <File FileName="CodeChallenge.Tests/Extensions/HttpResponseMessageExtensions.cs" />
+      <File FileName="CodeChallenge.Tests/EmployeeControllerTests.cs" />
+      <File FileName="CodeChallenge/Data/EmployeeContext.cs" />
+      <File FileName="CodeChallenge/Data/EmployeeDataSeeder.cs" />
+      <File FileName="CodeChallenge/Controllers/EmployeeController.cs" />
+      <File FileName="CodeChallenge/Config/WebApplicationBuilderExt.cs" />
+      <File FileName="CodeChallenge/Models/Employee.cs" />
+      <File FileName="CodeChallenge/Properties/launchSettings.json" />
+      <File FileName="CodeChallenge/Repositories/EmployeeRespository.cs" />
+      <File FileName="CodeChallenge/Repositories/IEmployeeRepository.cs" />
+      <File FileName="CodeChallenge/resources/EmployeeSeedData.json" />
+      <File FileName="CodeChallenge/Services/EmployeeService.cs" />
+      <File FileName="CodeChallenge/Services/IEmployeeService.cs" />
+      <File FileName="CodeChallenge/Controllers/ReportingStructureController.cs" />
+      <File FileName="CodeChallenge/Services/IReportingStructureService.cs" />
+      <File FileName="CodeChallenge/Services/ReportingStructureService.cs" />
+      <File FileName="CodeChallenge.Tests/ReportingStructureServiceTests.cs" />
+      <File FileName="CodeChallenge/appsettings.json" />
+      <File FileName="CodeChallenge/Models/Compensation.cs" />
+      <File FileName="CodeChallenge/Models/ReportingStructure.cs" />
+      <File FileName="CodeChallenge/Repositories/ICompensationRepository.cs" />
+      <File FileName="CodeChallenge/Repositories/CompensationRepository.cs" />
+      <File FileName="CodeChallenge/Data/CompensationContext.cs" />
+      <File FileName="CodeChallenge.Tests/CompensationRepositoryTests.cs" Line="30" Column="72" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CodeChallenge" expanded="True">
+            <Node name="CodeChallenge" expanded="True">
+              <Node name="Config" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+              <Node name="resources" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="CodeChallenge.Tests.Integration" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CodeChallenge" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CodeChallenge.Tests.Integration PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
